@@ -1,5 +1,6 @@
-public class May_2015_Q2 {
-
+//Program that determines if a year is a leap year  
+public class May_2015_Exam_Q2 {
+	
 	public static void main (String [] args) {
 		
 		isLeapYear(2016);
@@ -16,4 +17,5 @@ public class May_2015_Q2 {
 			System.out.println("Not a leap year");
 			return false;
 	}
+	
 }
